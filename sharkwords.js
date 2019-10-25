@@ -30,7 +30,8 @@ const generateLetterButtons = () => {
  * `buttonEl` is an `HTMLElement` object.
  */
 const disableLetterButton = (buttonEl) => {
-  // Replace this with your code
+  const jQueryEl = $(htmlEl);
+  
 };
 
 
